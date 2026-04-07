@@ -9,8 +9,8 @@ The first inclusion creates definitions to be used to create the required defini
 The second inclusion checks for required definitions and values.
 
 Example::
-%include "hazamatASMUtilities/Configuration/UtilityConfiguration/Include.asm"
- ;Definitions here
-%include "hazamatASMUtilities/Configuration/UtilityConfiguration/Include.asm"
+ %include "hazamatASMUtilities/Configuration/UtilityConfiguration/Include.asm"
+  ;Definitions here
+ %include "hazamatASMUtilities/Configuration/UtilityConfiguration/Include.asm"
 
 
