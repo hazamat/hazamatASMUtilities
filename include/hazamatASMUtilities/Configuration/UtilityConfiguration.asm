@@ -1,0 +1,3 @@
+%ifndef HAU_ASSEMBLER
+ __INTERNAL_ERROR_Undefined "HAU_ASSEMBLER"
+%elifidn HAU_ASSEMBLER 
